@@ -9,5 +9,6 @@ Nev.16th Added some files
  wos_coauthor_network.gexf        co-authoer network model file
  wos_rag_summary.txt              WoS search LLM summary
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Masahiro6626/DH/main/RAG_WoS_search.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Masahiro6626/DH/edit/main/RAG_WoS_search.ipynb)
  
+
