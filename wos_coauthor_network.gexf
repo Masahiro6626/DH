@@ -1,0 +1,1164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-11-16">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="7" title="common_authors" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="title" type="string" />
+      <attribute id="1" title="year" type="long" />
+      <attribute id="2" title="venue" type="string" />
+      <attribute id="3" title="times_cited" type="long" />
+      <attribute id="4" title="authors" type="string" />
+      <attribute id="5" title="url" type="string" />
+      <attribute id="6" title="cluster" type="long" />
+    </attributes>
+    <nodes>
+      <node id="WOS:000400012300083" label="WOS:000400012300083">
+        <attvalues>
+          <attvalue for="0" value="Deep Residual Learning for Image Recognition" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="137853" />
+          <attvalue for="4" value="He, KM; Zhang, XY; Ren, SQ; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000402555400026" label="WOS:000402555400026">
+        <attvalues>
+          <attvalue for="0" value="ImageNet Classification with Deep Convolutional Neural Networks" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="COMMUNICATIONS OF THE ACM" />
+          <attvalue for="3" value="78024" />
+          <attvalue for="4" value="Krizhevsky, A; Sutskever, I; Hinton, GE" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="WOS:000401091200007" label="WOS:000401091200007">
+        <attvalues>
+          <attvalue for="0" value="Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" />
+          <attvalue for="3" value="47059" />
+          <attvalue for="4" value="Ren, SQ; He, KM; Girshick, R; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000450913100006" label="WOS:000450913100006">
+        <attvalues>
+          <attvalue for="0" value="Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 28 (NIPS 2015)" />
+          <attvalue for="3" value="47059" />
+          <attvalue for="4" value="Ren, SQ; He, KM; Girshick, R; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000279038000033" label="WOS:000279038000033">
+        <attvalues>
+          <attvalue for="0" value="ImageNet: A Large-Scale Hierarchical Image Database" />
+          <attvalue for="1" value="2009" />
+          <attvalue for="2" value="CVPR: 2009 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION, VOLS 1-4" />
+          <attvalue for="3" value="44637" />
+          <attvalue for="4" value="Deng, J; Dong, W; Socher, R; Li, LJ; Li, K; Li, FF" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000345528200048" label="WOS:000345528200048">
+        <attvalues>
+          <attvalue for="0" value="Microsoft COCO: Common Objects in Context" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2014, PT V" />
+          <attvalue for="3" value="33263" />
+          <attvalue for="4" value="Lin, TY; Maire, M; Belongie, S; Hays, J; Perona, P; Ramanan, D; Dollár, P; Zitnick, CL" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000344638300002" label="WOS:000344638300002">
+        <attvalues>
+          <attvalue for="0" value="Dropout: A Simple Way to Prevent Neural Networks from Overfitting" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="JOURNAL OF MACHINE LEARNING RESEARCH" />
+          <attvalue for="3" value="28785" />
+          <attvalue for="4" value="Srivastava, N; Hinton, G; Krizhevsky, A; Sutskever, I; Salakhutdinov, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="WOS:000400012300084" label="WOS:000400012300084">
+        <attvalues>
+          <attvalue for="0" value="You Only Look Once: Unified, Real-Time Object Detection" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="27528" />
+          <attvalue for="4" value="Redmon, J; Divvala, S; Girshick, R; Farhadi, A" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371402035" label="WOS:000418371402035">
+        <attvalues>
+          <attvalue for="0" value="Densely Connected Convolutional Networks" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="27480" />
+          <attvalue for="4" value="Huang, G; Liu, Z; van der Maaten, L; Weinberger, KQ" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="WOS:000365089800001" label="WOS:000365089800001">
+        <attvalues>
+          <attvalue for="0" value="ImageNet Large Scale Visual Recognition Challenge" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="INTERNATIONAL JOURNAL OF COMPUTER VISION" />
+          <attvalue for="3" value="27076" />
+          <attvalue for="4" value="Russakovsky, O; Deng, J; Su, H; Krause, J; Satheesh, S; Ma, S; Huang, ZH; Karpathy, A; Khosla, A; Bernstein, M; Berg, AC; Fei-Fei, L" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000457843607030" label="WOS:000457843607030">
+        <attvalues>
+          <attvalue for="0" value="Squeeze-and-Excitation Networks" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="25771" />
+          <attvalue for="4" value="Hu, J; Shen, L; Sun, G" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="5" />
+        </attvalues>
+      </node>
+      <node id="WOS:000389382700002" label="WOS:000389382700002">
+        <attvalues>
+          <attvalue for="0" value="SSD: Single Shot MultiBox Detector" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2016, PT I" />
+          <attvalue for="3" value="24642" />
+          <attvalue for="4" value="Liu, W; Anguelov, D; Erhan, D; Szegedy, C; Reed, S; Fu, CY; Berg, AC" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000798743208072" label="WOS:000798743208072">
+        <attvalues>
+          <attvalue for="0" value="Swin Transformer: Hierarchical Vision Transformer using Shifted Windows" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="2021 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2021)" />
+          <attvalue for="3" value="22100" />
+          <attvalue for="4" value="Liu, Z; Lin, YT; Cao, Y; Hu, H; Wei, YX; Zhang, Z; Lin, S; Guo, BN" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="4" />
+        </attvalues>
+      </node>
+      <node id="WOS:000594221500001" label="WOS:000594221500001">
+        <attvalues>
+          <attvalue for="0" value="CBAM: Convolutional Block Attention Module" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2018, PT VII" />
+          <attvalue for="3" value="20749" />
+          <attvalue for="4" value="Woo, SH; Park, J; Lee, JY; Kweon, IS" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="7" />
+        </attvalues>
+      </node>
+      <node id="WOS:000387959200001" label="WOS:000387959200001">
+        <attvalues>
+          <attvalue for="0" value="Going Deeper with Convolutions" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2015 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="19871" />
+          <attvalue for="4" value="Szegedy, C; Liu, W; Jia, YQ; Sermanet, P; Reed, S; Anguelov, D; Erhan, D; Vanhoucke, V; Rabinovich, A" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000400012302094" label="WOS:000400012302094">
+        <attvalues>
+          <attvalue for="0" value="Rethinking the Inception Architecture for Computer Vision" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="19248" />
+          <attvalue for="4" value="Szegedy, C; Vanhoucke, V; Ioffe, S; Shlens, J; Wojna, Z" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000380414100161" label="WOS:000380414100161">
+        <attvalues>
+          <attvalue for="0" value="Fast R-CNN" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2015 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV)" />
+          <attvalue for="3" value="18754" />
+          <attvalue for="4" value="Girshick, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371401001" label="WOS:000418371401001">
+        <attvalues>
+          <attvalue for="0" value="Feature Pyramid Networks for Object Detection" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="18722" />
+          <attvalue for="4" value="Lin, TY; Dollár, P; Girshick, R; He, KM; Hariharan, B; Belongie, S" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000457843604069" label="WOS:000457843604069">
+        <attvalues>
+          <attvalue for="0" value="MobileNetV2: Inverted Residuals and Linear Bottlenecks" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="17443" />
+          <attvalue for="4" value="Sandler, M; Howard, A; Zhu, ML; Zhmoginov, A; Chen, LC" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="9" />
+        </attvalues>
+      </node>
+      <node id="WOS:000768182704084" label="WOS:000768182704084">
+        <attvalues>
+          <attvalue for="0" value="Learning Transferable Visual Models From Natural Language Supervision" />
+          <attvalue for="1" value="2021" />
+          <attvalue for="2" value="INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 139" />
+          <attvalue for="3" value="16837" />
+          <attvalue for="4" value="Radford, A; Kim, JW; Hallacy, C; Ramesh, A; Goh, G; Agarwal, S; Sastry, G; Askell, A; Mishkin, P; Clark, J; Krueger, G; Sutskever, I" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="WOS:000426687100005" label="WOS:000426687100005">
+        <attvalues>
+          <attvalue for="0" value="DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" />
+          <attvalue for="3" value="15507" />
+          <attvalue for="4" value="Chen, LC; Papandreou, G; Kokkinos, I; Murphy, K; Yuille, AL" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="9" />
+        </attvalues>
+      </node>
+      <node id="WOS:000684034306026" label="WOS:000684034306026">
+        <attvalues>
+          <attvalue for="0" value="EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 97" />
+          <attvalue for="3" value="14696" />
+          <attvalue for="4" value="Tan, MX; Le, QV" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="9" />
+        </attvalues>
+      </node>
+      <node id="WOS:000361555600074" label="WOS:000361555600074">
+        <attvalues>
+          <attvalue for="0" value="Rich feature hierarchies for accurate object detection and semantic segmentation" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="2014 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="14503" />
+          <attvalue for="4" value="Girshick, R; Donahue, J; Darrell, T; Malik, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000414395400012" label="WOS:000414395400012">
+        <attvalues>
+          <attvalue for="0" value="SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" />
+          <attvalue for="3" value="12392" />
+          <attvalue for="4" value="Badrinarayanan, V; Kendall, A; Cipolla, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="10" />
+        </attvalues>
+      </node>
+      <node id="WOS:000425498403007" label="WOS:000425498403007">
+        <attvalues>
+          <attvalue for="0" value="Focal Loss for Dense Object Detection" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV)" />
+          <attvalue for="3" value="12020" />
+          <attvalue for="4" value="Lin, TY; Goyal, P; Girshick, R; He, KM; Dollár, P" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371401090" label="WOS:000418371401090">
+        <attvalues>
+          <attvalue for="0" value="Xception: Deep Learning with Depthwise Separable Convolutions" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="11654" />
+          <attvalue for="4" value="Chollet, F" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="11" />
+        </attvalues>
+      </node>
+      <node id="WOS:000684115800048" label="WOS:000684115800048">
+        <attvalues>
+          <attvalue for="0" value="Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="INTERNATIONAL CONFERENCE ON MACHINE LEARNING, VOL 37" />
+          <attvalue for="3" value="11242" />
+          <attvalue for="4" value="Ioffe, S; Szegedy, C" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371406035" label="WOS:000418371406035">
+        <attvalues>
+          <attvalue for="0" value="Pyramid Scene Parsing Network" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="11055" />
+          <attvalue for="4" value="Zhao, HS; Shi, JP; Qi, XJ; Wang, XG; Jia, JY" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="12" />
+        </attvalues>
+      </node>
+      <node id="WOS:000508386100011" label="WOS:000508386100011">
+        <attvalues>
+          <attvalue for="0" value="Mask R-CNN" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" />
+          <attvalue for="3" value="10907" />
+          <attvalue for="4" value="He, KM; Gkioxari, G; Dollár, P; Girshick, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000345524200047" label="WOS:000345524200047">
+        <attvalues>
+          <attvalue for="0" value="Visualizing and Understanding Convolutional Networks" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2014, PT I" />
+          <attvalue for="3" value="10829" />
+          <attvalue for="4" value="Zeiler, MD; Fergus, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="13" />
+        </attvalues>
+      </node>
+      <node id="WOS:001500571000013" label="WOS:001500571000013">
+        <attvalues>
+          <attvalue for="0" value="End-to-End Object Detection with Transformers" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2020, PT I" />
+          <attvalue for="3" value="10778" />
+          <attvalue for="4" value="Carion, N; Massa, F; Synnaeve, G; Usunier, N; Kirillov, A; Zagoruyko, S" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="14" />
+        </attvalues>
+      </node>
+      <node id="WOS:000425498403005" label="WOS:000425498403005">
+        <attvalues>
+          <attvalue for="0" value="Mask R-CNN" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV)" />
+          <attvalue for="3" value="10608" />
+          <attvalue for="4" value="He, KM; Gkioxari, G; Dollár, P; Girshick, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000425498400065" label="WOS:000425498400065">
+        <attvalues>
+          <attvalue for="0" value="Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="2017 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV)" />
+          <attvalue for="3" value="10001" />
+          <attvalue for="4" value="Selvaraju, RR; Cogswell, M; Das, A; Vedantam, R; Parikh, D; Batra, D" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="15" />
+        </attvalues>
+      </node>
+      <node id="WOS:000511807100003" label="WOS:000511807100003">
+        <attvalues>
+          <attvalue for="0" value="Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization" />
+          <attvalue for="1" value="2020" />
+          <attvalue for="2" value="INTERNATIONAL JOURNAL OF COMPUTER VISION" />
+          <attvalue for="3" value="9432" />
+          <attvalue for="4" value="Selvaraju, RR; Cogswell, M; Das, A; Vedantam, R; Parikh, D; Batra, D" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="15" />
+        </attvalues>
+      </node>
+      <node id="WOS:000485630704046" label="WOS:000485630704046">
+        <attvalues>
+          <attvalue for="0" value="Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="THIRTY-FIRST AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE" />
+          <attvalue for="3" value="9210" />
+          <attvalue for="4" value="Szegedy, C; Ioffe, S; Vanhoucke, V; Alemi, AA" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000223649300069" label="WOS:000223649300069">
+        <attvalues>
+          <attvalue for="0" value="MICRO-CHECKER: software for identifying and correcting genotyping errors in microsatellite data" />
+          <attvalue for="1" value="2004" />
+          <attvalue for="2" value="MOLECULAR ECOLOGY NOTES" />
+          <attvalue for="3" value="9062" />
+          <attvalue for="4" value="Van Oosterhout, C; Hutchinson, WF; Wills, DPM; Shipley, P" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="16" />
+        </attvalues>
+      </node>
+      <node id="WOS:000457843600061" label="WOS:000457843600061">
+        <attvalues>
+          <attvalue for="0" value="The Unreasonable Effectiveness of Deep Features as a Perceptual Metric" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="8725" />
+          <attvalue for="4" value="Zhang, R; Isola, P; Efros, AA; Shechtman, E; Wang, O" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="17" />
+        </attvalues>
+      </node>
+      <node id="WOS:000391542200062" label="WOS:000391542200062">
+        <attvalues>
+          <attvalue for="0" value="V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="PROCEEDINGS OF 2016 FOURTH INTERNATIONAL CONFERENCE ON 3D VISION (3DV)" />
+          <attvalue for="3" value="8494" />
+          <attvalue for="4" value="Milletari, F; Navab, N; Ahmadi, SA" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="18" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371406009" label="WOS:000418371406009">
+        <attvalues>
+          <attvalue for="0" value="Aggregated Residual Transformations for Deep Neural Networks" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="8491" />
+          <attvalue for="4" value="Xie, SN; Girshick, R; Dollár, P; Tu, ZW; He, KM" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371406065" label="WOS:000418371406065">
+        <attvalues>
+          <attvalue for="0" value="YOLO9000: Better, Faster, Stronger" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="8434" />
+          <attvalue for="4" value="Redmon, J; Farhadi, A" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="3" />
+        </attvalues>
+      </node>
+      <node id="WOS:000396119300042" label="WOS:000396119300042">
+        <attvalues>
+          <attvalue for="0" value="Dermatologist-level classification of skin cancer with deep neural networks" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="NATURE" />
+          <attvalue for="3" value="7918" />
+          <attvalue for="4" value="Esteva, A; Kuprel, B; Novoa, RA; Ko, J; Swetter, SM; Blau, HM; Thrun, S" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="19" />
+        </attvalues>
+      </node>
+      <node id="WOS:000400012302105" label="WOS:000400012302105">
+        <attvalues>
+          <attvalue for="0" value="Learning Deep Features for Discriminative Localization" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="2016 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="7238" />
+          <attvalue for="4" value="Zhou, B; Khosla, A; Lapedriza, A; Oliva, A; Torralba, A" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="6" />
+        </attvalues>
+      </node>
+      <node id="WOS:000389385100038" label="WOS:000389385100038">
+        <attvalues>
+          <attvalue for="0" value="Identity Mappings in Deep Residual Networks" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2016, PT IV" />
+          <attvalue for="3" value="7144" />
+          <attvalue for="4" value="He, KM; Zhang, XY; Ren, SQ; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000380414100115" label="WOS:000380414100115">
+        <attvalues>
+          <attvalue for="0" value="Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification" />
+          <attvalue for="1" value="2015" />
+          <attvalue for="2" value="2015 IEEE INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV)" />
+          <attvalue for="3" value="7111" />
+          <attvalue for="4" value="He, KM; Zhang, XY; Ren, SQ; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000369989600008" label="WOS:000369989600008">
+        <attvalues>
+          <attvalue for="0" value="Image Super-Resolution Using Deep Convolutional Networks" />
+          <attvalue for="1" value="2016" />
+          <attvalue for="2" value="IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" />
+          <attvalue for="3" value="7104" />
+          <attvalue for="4" value="Dong, C; Loy, CC; He, KM; Tang, XO" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="WOS:000531438101043" label="WOS:000531438101043">
+        <attvalues>
+          <attvalue for="0" value="Searching for MobileNetV3" />
+          <attvalue for="1" value="2019" />
+          <attvalue for="2" value="2019 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2019)" />
+          <attvalue for="3" value="7072" />
+          <attvalue for="4" value="Howard, A; Sandler, M; Chu, G; Chen, LC; Chen, B; Tan, MX; Wang, WJ; Zhu, YK; Pang, RM; Vasudevan, V; Le, QV; Adam, H" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="9" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371406068" label="WOS:000418371406068">
+        <attvalues>
+          <attvalue for="0" value="Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="6619" />
+          <attvalue for="4" value="Dai, A; Qi, CR; Niessner, M" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="20" />
+        </attvalues>
+      </node>
+      <node id="WOS:000457843607001" label="WOS:000457843607001">
+        <attvalues>
+          <attvalue for="0" value="ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices" />
+          <attvalue for="1" value="2018" />
+          <attvalue for="2" value="2018 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)" />
+          <attvalue for="3" value="6512" />
+          <attvalue for="4" value="Zhang, X; Zhou, XY; Lin, MX; Sun, R" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="8" />
+        </attvalues>
+      </node>
+      <node id="WOS:000418371404086" label="WOS:000418371404086">
+        <attvalues>
+          <attvalue for="0" value="Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset" />
+          <attvalue for="1" value="2017" />
+          <attvalue for="2" value="30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)" />
+          <attvalue for="3" value="6500" />
+          <attvalue for="4" value="Carreira, J; Zisserman, A" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="2" />
+        </attvalues>
+      </node>
+      <node id="WOS:000345527000023" label="WOS:000345527000023">
+        <attvalues>
+          <attvalue for="0" value="Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition" />
+          <attvalue for="1" value="2014" />
+          <attvalue for="2" value="COMPUTER VISION - ECCV 2014, PT III" />
+          <attvalue for="3" value="5512" />
+          <attvalue for="4" value="He, KM; Zhang, XY; Ren, SQ; Sun, J" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="WOS:000400012300083" target="WOS:000401091200007" id="0" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000450913100006" id="1" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000418371401001" id="2" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000425498403007" id="3" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000508386100011" id="4" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000425498403005" id="5" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000418371406009" id="6" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000389385100038" id="7" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000380414100115" id="8" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000369989600008" id="9" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300083" target="WOS:000345527000023" id="10" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000402555400026" target="WOS:000344638300002" id="11" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Sutskever, I; Krizhevsky, A" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000402555400026" target="WOS:000768182704084" id="12" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Sutskever, I" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000450913100006" id="13" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000400012300084" id="14" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000380414100161" id="15" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000418371401001" id="16" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000361555600074" id="17" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000425498403007" id="18" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000508386100011" id="19" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000425498403005" id="20" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000418371406009" id="21" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000389385100038" id="22" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000380414100115" id="23" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000369989600008" id="24" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000401091200007" target="WOS:000345527000023" id="25" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000400012300084" id="26" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000380414100161" id="27" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000418371401001" id="28" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000361555600074" id="29" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000425498403007" id="30" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000508386100011" id="31" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000425498403005" id="32" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000418371406009" id="33" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000389385100038" id="34" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000380414100115" id="35" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000369989600008" id="36" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000450913100006" target="WOS:000345527000023" id="37" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000279038000033" target="WOS:000365089800001" id="38" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Deng, J" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000345528200048" target="WOS:000418371401001" id="39" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Belongie, S; Lin, TY; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000345528200048" target="WOS:000425498403007" id="40" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Lin, TY; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000345528200048" target="WOS:000508386100011" id="41" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000345528200048" target="WOS:000425498403005" id="42" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000345528200048" target="WOS:000418371406009" id="43" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000344638300002" target="WOS:000768182704084" id="44" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Sutskever, I" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000380414100161" id="45" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000418371401001" id="46" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000361555600074" id="47" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000425498403007" id="48" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000508386100011" id="49" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000425498403005" id="50" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000418371406009" id="51" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012300084" target="WOS:000418371406065" id="52" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Redmon, J; Farhadi, A" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371402035" target="WOS:000798743208072" id="53" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Liu, Z" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000365089800001" target="WOS:000389382700002" id="54" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Berg, AC" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000365089800001" target="WOS:000400012302105" id="55" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Khosla, A" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389382700002" target="WOS:000387959200001" id="56" weight="5">
+        <attvalues>
+          <attvalue for="7" value="Anguelov, D; Liu, W; Erhan, D; Reed, S; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389382700002" target="WOS:000400012302094" id="57" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389382700002" target="WOS:000684115800048" id="58" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389382700002" target="WOS:000485630704046" id="59" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000387959200001" target="WOS:000400012302094" id="60" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Vanhoucke, V; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000387959200001" target="WOS:000684115800048" id="61" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000387959200001" target="WOS:000485630704046" id="62" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Vanhoucke, V; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012302094" target="WOS:000684115800048" id="63" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Ioffe, S; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000400012302094" target="WOS:000485630704046" id="64" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Vanhoucke, V; Ioffe, S; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000418371401001" id="65" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000361555600074" id="66" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000425498403007" id="67" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000508386100011" id="68" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000425498403005" id="69" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100161" target="WOS:000418371406009" id="70" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000361555600074" id="71" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000425498403007" id="72" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; Lin, TY; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000508386100011" id="73" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000425498403005" id="74" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000418371406009" id="75" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000389385100038" id="76" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000380414100115" id="77" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000369989600008" id="78" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371401001" target="WOS:000345527000023" id="79" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000457843604069" target="WOS:000426687100005" id="80" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Chen, LC" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000457843604069" target="WOS:000531438101043" id="81" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Howard, A; Chen, LC; Sandler, M" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000426687100005" target="WOS:000531438101043" id="82" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Chen, LC" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000684034306026" target="WOS:000531438101043" id="83" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Le, QV; Tan, MX" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000361555600074" target="WOS:000425498403007" id="84" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000361555600074" target="WOS:000508386100011" id="85" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000361555600074" target="WOS:000425498403005" id="86" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000361555600074" target="WOS:000418371406009" id="87" weight="1">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000508386100011" id="88" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000425498403005" id="89" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000418371406009" id="90" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000389385100038" id="91" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000380414100115" id="92" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000369989600008" id="93" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403007" target="WOS:000345527000023" id="94" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000684115800048" target="WOS:000485630704046" id="95" weight="2">
+        <attvalues>
+          <attvalue for="7" value="Ioffe, S; Szegedy, C" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000425498403005" id="96" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; Gkioxari, G; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000418371406009" id="97" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000389385100038" id="98" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000380414100115" id="99" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000369989600008" id="100" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000508386100011" target="WOS:000345527000023" id="101" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403005" target="WOS:000418371406009" id="102" weight="3">
+        <attvalues>
+          <attvalue for="7" value="Girshick, R; He, KM; Dollár, P" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403005" target="WOS:000389385100038" id="103" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403005" target="WOS:000380414100115" id="104" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403005" target="WOS:000369989600008" id="105" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498403005" target="WOS:000345527000023" id="106" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000425498400065" target="WOS:000511807100003" id="107" weight="6">
+        <attvalues>
+          <attvalue for="7" value="Selvaraju, RR; Das, A; Vedantam, R; Parikh, D; Cogswell, M; Batra, D" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371406009" target="WOS:000389385100038" id="108" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371406009" target="WOS:000380414100115" id="109" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371406009" target="WOS:000369989600008" id="110" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000418371406009" target="WOS:000345527000023" id="111" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389385100038" target="WOS:000380414100115" id="112" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389385100038" target="WOS:000369989600008" id="113" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000389385100038" target="WOS:000345527000023" id="114" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100115" target="WOS:000369989600008" id="115" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000380414100115" target="WOS:000345527000023" id="116" weight="4">
+        <attvalues>
+          <attvalue for="7" value="Ren, SQ; Sun, J; Zhang, XY; He, KM" />
+        </attvalues>
+      </edge>
+      <edge source="WOS:000369989600008" target="WOS:000345527000023" id="117" weight="1">
+        <attvalues>
+          <attvalue for="7" value="He, KM" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
